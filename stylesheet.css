@@ -1,0 +1,28 @@
+body{
+    background-color: wahait(255, 255, 255);
+}
+/* boot strab we should learne it . */
+img{
+    height: 10%;
+    width: 5%;
+}
+img{
+    height: 100%;
+    width: 50%;
+    margin-right: 10%;
+    
+}
+#textOne{
+    color: rgb(42, 165, 46);
+    text: shadow 10px ;
+}
+textTow{
+    color: brown;
+margin-left: 20%;
+}
+.hi{
+    margin: 50%;
+}
+.first, .last ,.textOne ,.first{
+    margin-left: 50%;
+}
